@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "65d5e7bb7df96545d11160987830a250"
+build_time: [1567417652, 905533000]
+inputs:
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/Exports.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/Fluent+MySQLUpsert.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/FluentMySQLProvider.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/FluentMySQLQuery.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/FluentMySQLSchema.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/MySQLDatabase+JoinSupporting.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/MySQLDatabase+KeyedCacheSupporting.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/MySQLDatabase+LogSupporting.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/MySQLDatabase+MigrationSupporting.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/MySQLDatabase+QuerySupporting.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/MySQLDatabase+SchemaSupporting.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/MySQLDatabase+TransactionSupporting.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/MySQLLogger.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/MySQLModel.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/MySQLSerializer.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/MySQLType.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/QueryBuilder+CreateIgnore.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/QueryBuilder+Metadata.swift": [1567404322, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/fluent-mysql/Sources/FluentMySQL/SchemaBuilder+Order.swift": [1567404322, 0]

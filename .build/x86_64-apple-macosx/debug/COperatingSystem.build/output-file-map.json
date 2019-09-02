@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/COperatingSystem.build/master.swiftdeps"
+  },
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/COperatingSystem/libc.swift": {
+    "dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/COperatingSystem.build/libc.d",
+    "object": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/COperatingSystem.build/libc.swift.o",
+    "swiftmodule": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/COperatingSystem.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/COperatingSystem.build/libc.swiftdeps"
+  }
+}

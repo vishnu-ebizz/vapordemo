@@ -1,0 +1,4 @@
+module CNIOHTTPParser {
+    umbrella header "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+    export *
+}

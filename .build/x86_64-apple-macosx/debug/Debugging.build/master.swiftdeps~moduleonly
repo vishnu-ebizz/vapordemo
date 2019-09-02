@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "e79b7699c06eebbd08495aff74e4958f"
+build_time: [1567417625, 613043000]
+inputs:
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Debugging/Debuggable.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Debugging/Demangler.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Debugging/SourceLocation.swift": [1567404319, 0]

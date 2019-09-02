@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "4208be05fed6a17c867bc7187adb21cd"
+build_time: [1567417625, 979094000]
+inputs:
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/COperatingSystem/libc.swift": [1567404319, 0]

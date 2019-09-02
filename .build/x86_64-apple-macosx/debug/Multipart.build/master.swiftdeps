@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "105389ad310d2c6f50bc73e5d5595b08"
+build_time: [1567417639, 627880000]
+inputs:
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/multipart/Sources/Multipart/Exports.swift": [1567404318, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/multipart/Sources/Multipart/FormDataDecoder.swift": [1567404318, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/multipart/Sources/Multipart/FormDataEncoder.swift": [1567404318, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/multipart/Sources/Multipart/MultipartError.swift": [1567404318, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/multipart/Sources/Multipart/MultipartParser.swift": [1567404318, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/multipart/Sources/Multipart/MultipartPart.swift": [1567404318, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/multipart/Sources/Multipart/MultipartPartConvertible.swift": [1567404318, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/multipart/Sources/Multipart/MultipartSerializer.swift": [1567404318, 0]

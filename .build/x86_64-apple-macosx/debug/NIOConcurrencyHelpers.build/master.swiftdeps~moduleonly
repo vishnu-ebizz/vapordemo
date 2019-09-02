@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "dffb878e6422693853b690defdf80cc5"
+build_time: [1567417631, 873458000]
+inputs:
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": [1567404320, 0]

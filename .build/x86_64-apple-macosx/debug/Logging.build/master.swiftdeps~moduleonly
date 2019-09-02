@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "0a8a216db811f712c715a54a9906a3c9"
+build_time: [1567417641, 378488000]
+inputs:
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Logging/Exports.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Logging/LogLevel.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Logging/Logger.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Logging/PrintLogger.swift": [1567404319, 0]

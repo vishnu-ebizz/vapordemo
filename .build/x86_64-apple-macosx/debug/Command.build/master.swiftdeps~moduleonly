@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "59c8e2729eacad532efaf6c994d81071"
+build_time: [1567417646, 288024000]
+inputs:
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Command/Base/CommandOption.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Command/Base/CommandRunnable.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Command/Command/Command.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Command/Command/CommandArgument.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Command/Config/CommandConfig.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Command/Config/Commands.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Command/Group/BasicCommandGroup.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Command/Group/CommandGroup.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Command/Run/CommandContext.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Command/Run/CommandInput.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Command/Run/Console+Run.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Command/Run/Output+Autocomplete.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Command/Run/Output+Help.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Command/Utilities/CommandError.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Command/Utilities/Exports.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/console/Sources/Command/Utilities/Utilities.swift": [1567404319, 0]

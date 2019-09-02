@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "ff5f839bc89f1021d2499bc76c5aa93e"
+build_time: [1567417645, 815469000]
+inputs:
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/leaf/Sources/Leaf/Parser/Byte+Leaf.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/leaf/Sources/Leaf/Parser/LeafParser.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/leaf/Sources/Leaf/Renderer/LeafRenderer.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/leaf/Sources/Leaf/Service/LeafConfig.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/leaf/Sources/Leaf/Service/LeafProvider.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/leaf/Sources/Leaf/Service/LeafTagConfig.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/leaf/Sources/Leaf/Utilities/Data.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/leaf/Sources/Leaf/Utilities/Exports.swift": [1567404320, 0]

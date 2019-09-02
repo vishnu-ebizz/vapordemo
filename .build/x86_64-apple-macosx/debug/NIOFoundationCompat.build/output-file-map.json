@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/NIOFoundationCompat.build/master.swiftdeps"
+  },
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift": {
+    "dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/NIOFoundationCompat.build/ByteBuffer-foundation.d",
+    "object": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/NIOFoundationCompat.build/ByteBuffer-foundation.swift.o",
+    "swiftmodule": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/NIOFoundationCompat.build/ByteBuffer-foundation~partial.swiftmodule",
+    "swift-dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/NIOFoundationCompat.build/ByteBuffer-foundation.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}

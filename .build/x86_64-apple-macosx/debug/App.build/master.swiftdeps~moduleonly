@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "ad82f62f5ed938a22fd345e42f4f4fc3"
+build_time: [1567417653, 677446000]
+inputs:
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/Sources/App/Controllers/UserController.swift": [1567156448, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/Sources/App/Models/User.swift": [1567170278, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/Sources/App/app.swift": [1567229538, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/Sources/App/boot.swift": [1567156448, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/Sources/App/configure.swift": [1567413684, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/Sources/App/routes.swift": [1567156448, 0]

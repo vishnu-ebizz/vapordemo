@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "008bd9ac872c2e430145bd6577df2630"
+build_time: [1567417635, 700096000]
+inputs:
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Async/Async+NIO.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Async/AsyncError.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Async/Collection+Future.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Async/Deprecated.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Async/Exports.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Async/Future+DoCatch.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Async/Future+Flatten.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Async/Future+Global.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Async/Future+Map.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Async/Future+Transform.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Async/Future+Variadic.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Async/Future+Void.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Async/FutureType.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Async/QueueHandler.swift": [1567404319, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/core/Sources/Async/Worker.swift": [1567404319, 0]

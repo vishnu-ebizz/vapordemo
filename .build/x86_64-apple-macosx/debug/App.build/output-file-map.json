@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/master.swiftdeps"
+  },
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/Sources/App/Controllers/UserController.swift": {
+    "dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/Controllers/UserController.d",
+    "object": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/Controllers/UserController.swift.o",
+    "swiftmodule": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/Controllers/UserController~partial.swiftmodule",
+    "swift-dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/Controllers/UserController.swiftdeps"
+  },
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/Sources/App/Models/User.swift": {
+    "dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/Models/User.d",
+    "object": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/Models/User.swift.o",
+    "swiftmodule": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/Models/User~partial.swiftmodule",
+    "swift-dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/Models/User.swiftdeps"
+  },
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/Sources/App/app.swift": {
+    "dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/app.d",
+    "object": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/app.swift.o",
+    "swiftmodule": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/app~partial.swiftmodule",
+    "swift-dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/app.swiftdeps"
+  },
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/Sources/App/boot.swift": {
+    "dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/boot.d",
+    "object": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/boot.swift.o",
+    "swiftmodule": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/boot~partial.swiftmodule",
+    "swift-dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/boot.swiftdeps"
+  },
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/Sources/App/configure.swift": {
+    "dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/configure.d",
+    "object": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/configure.swift.o",
+    "swiftmodule": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/configure~partial.swiftmodule",
+    "swift-dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/configure.swiftdeps"
+  },
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/Sources/App/routes.swift": {
+    "dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/routes.d",
+    "object": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/routes.swift.o",
+    "swiftmodule": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/routes~partial.swiftmodule",
+    "swift-dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/App.build/routes.swiftdeps"
+  }
+}

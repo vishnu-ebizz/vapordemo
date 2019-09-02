@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "3c4047f65429ebf71dac96052d0337aa"
+build_time: [1567417639, 627891000]
+inputs:
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/Exports.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/Validatable.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/ValidationError.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/Validations.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/Validator.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/ValidatorType.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/Validators/AndValidator.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/Validators/CharacterSetValidator.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/Validators/CountValidator.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/Validators/EmailValidator.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/Validators/EmptyValidator.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/Validators/InValidator.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/Validators/NilIgnoringValidator.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/Validators/NilValidator.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/Validators/NotValidator.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/Validators/OrValidator.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/Validators/RangeValidator.swift": [1567404320, 0]
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/checkouts/validation/Sources/Validation/Validators/URLValidator.swift": [1567404320, 0]

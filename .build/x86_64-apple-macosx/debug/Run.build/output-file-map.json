@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/Run.build/master.swiftdeps"
+  },
+  "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/Sources/Run/main.swift": {
+    "dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/Run.build/main.d",
+    "object": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/Run.build/main.swift.o",
+    "swiftmodule": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/Run.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/ebitnhp-i1/Desktop/Vapor/firstMySQL/.build/x86_64-apple-macosx/debug/Run.build/main.swiftdeps"
+  }
+}
