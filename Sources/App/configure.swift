@@ -20,11 +20,11 @@ public func configure(
 
     try services.register(FluentMySQLProvider())  // changed
     let mysqlConfig = MySQLDatabaseConfig(
-        hostname: "192.168.1.84", //localhost
+        hostname: "localhost",
         port: 3306,
         username: "root",
-        password: "",
-        database: "vapor",
+        password: "root",
+        database: "mycooldb",
         transport: MySQLTransportConfig.unverifiedTLS
     )
     services.register(mysqlConfig)
